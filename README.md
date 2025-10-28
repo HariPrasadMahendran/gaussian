@@ -21,9 +21,13 @@ Developed by:
 RegisterNumber: 
 */
 ```
+![6 code](https://github.com/user-attachments/assets/b7ac3ac3-4c06-459f-b96a-c91829361f07)
+
 
 ## Output:
 ![gaussian elimination]()
+![6 out](https://github.com/user-attachments/assets/6f2d03d5-eb04-411c-86e0-2d7e32ac64a1)
+
 
 
 ## Result:
